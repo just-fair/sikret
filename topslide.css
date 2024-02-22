@@ -4,13 +4,14 @@ body{
     place-items: start center;
     background-color: rgba(0, 0, 0, 0.1);
     overflow: hidden;
+    margin: 0;
 }
 
 .slider{
     height: 250px;
     margin: auto;
     position: relative;
-    width: 90%;
+    width: 100%;
     display: grid;
     place-items: center;
     overflow: hidden;
