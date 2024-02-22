@@ -19,10 +19,10 @@ body {
     align-items: center;
 }
 
-@media (max-width: 1090px) {
+@media (max-width: 700px) {
     .bottom, .top, .content {
         flex: 1;
-        height: 120px; /* Decreased height for mobile */
+        height: 100px; /* Decreased height for mobile */
     }
 
     h1 {
